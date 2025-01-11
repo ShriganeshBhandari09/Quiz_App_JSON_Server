@@ -3,32 +3,32 @@
     {
       "fullName": "Shriganesh",
       "email": "shriganesh@gmail.com",
-      "password": "Aishu@2903",
+      "password": "Abcd@123",
       "id": "a38e"
     },
     {
       "id": "cabc",
       "fullName": "Shriganesh Bhandari",
       "email": "shriganesh.bhandari693@gmail.com",
-      "password": "Aishu@2903"
+      "password": "Abcd@123"
     },
     {
       "id": "e21f",
       "fullName": "Vidya",
       "email": "vidya@gmail.com",
-      "password": "Asihu@2903"
+      "password": "Abcd@123"
     },
     {
       "id": "07e7",
       "fullName": "Akshaya Bhandari",
       "email": "akshaya@gmail.com",
-      "password": "vidya@2903"
+      "password": "Abcd@123"
     },
     {
       "id": "35b0",
       "fullName": "Amit Thakur",
       "email": "amit@gmail.com",
-      "password": "Amit@123"
+      "password": "Abcd@123"
     }
   ],
   "questions": [
